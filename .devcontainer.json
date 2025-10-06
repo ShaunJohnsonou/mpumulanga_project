@@ -1,0 +1,8 @@
+{
+    "name": "YOLO CUDA Dev",
+    "image": "cuda_dev",
+    "runArgs": ["--gpus=all"]
+  }
+  
+  
+  
